@@ -1,6 +1,4 @@
 // src/App.tsx
-import "./App.css";
-
 function App() {
   return (
     <div class="w-full px-1 antialiased">
